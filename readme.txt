@@ -1,0 +1,1 @@
+this is a doc to store interview questions from different website

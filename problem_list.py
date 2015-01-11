@@ -8,6 +8,10 @@ class Question:
         self.company = company
         self.link = link
         self.type = type
+        self.id = hash(self.link)
+        
+    def upload(self):
+        pass
 
 
 class User:

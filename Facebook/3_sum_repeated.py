@@ -30,7 +30,7 @@ def three_sum_repeated(num,target):
             i +=1
     return rslt
     
-num = [10,-2,1,0,2]
+num = [-2,0,0,2]
 target = 0
 print three_sum_repeated(num,target)
             
